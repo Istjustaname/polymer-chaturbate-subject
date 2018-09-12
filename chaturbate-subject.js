@@ -1,5 +1,5 @@
 
-import {PolymerElement, html} from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 
 class ChaturbateSubject extends PolymerElement {
   static get template() {
