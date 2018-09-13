@@ -40,3 +40,5 @@ class ChaturbateSubject extends PolymerElement {
     }
   }
 }
+
+customElements.define('chaturbate-subject', ChaturbateSubject);
